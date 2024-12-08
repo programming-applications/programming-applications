@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**programming-applications/programming-applications** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  
+  <a href="https://www.npmjs.com">
+    <img src="svg/dev/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>   
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+
+
+  <a href="https://www.oracle.com/java/">
+    <img src="svg/dev/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://nodejs.org/docs/latest/api/">
+    <img src="svg/dev/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+
+<p align="right">
+
+   <a href="https://www.tensorflow.org">
+    <img src="svg/dev/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="https://azure.microsoft.com/en-us/products/machine-learning/">
+    <img src="svg/dev/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+<a href="https://cloud.google.com/?hl=en">
+    <img src="svg/dev/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
